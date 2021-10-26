@@ -1,0 +1,1 @@
+Client side authentication using Nextjs, Keystonejs and Apollo Client ( GraphQL ) with two user roles.
